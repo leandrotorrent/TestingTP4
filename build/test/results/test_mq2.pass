@@ -1,0 +1,30 @@
+---
+:source:
+  :path: test
+  :file: test_mq2.c
+:successes:
+- :test: test_calibracion_sensorMQ2
+  :line: 41
+  :message: ''
+  :unity_test_time: 0
+- :test: 'test_obtener_LPG '
+  :line: 49
+  :message: ''
+  :unity_test_time: 0
+- :test: 'test_obtener_CO '
+  :line: 58
+  :message: ''
+  :unity_test_time: 0
+- :test: 'test_obtener_smoke '
+  :line: 68
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 4
+  :passed: 4
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.003580695003620349
